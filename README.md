@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Akanksha Magdum
-- 👀 I’m Data Analyst, Data storyteller & Power BI Enthusiast.
+> 👋 Hi, I’m Akanksha Magdum
+> 👀 I’m Data Analyst, Data storyteller & Power BI Enthusiast.
+> Have a look on the Reports and Dashboards I have Created in different Business Inteliigence Tool here.
+> Experienced professional with expertise in data analysis, visualization, and deriving valuable insights, utilizing tools such as SAP Analytics Cloud, SAP Business Objects, 
+ SAP Lumira Designer, and SAP Web Intelligence. Adept at transforming complex information into actionable recommendations, I am eager to contribute my skills to a data-focused 
+ role and drive informed decision-making.
 
 
 <!---
