@@ -1,5 +1,4 @@
-👋 Hi, I'm Akanksha Magdum, a passionate data analyst dedicated to transforming raw data into actionable insights. 
-   I excel in uncovering hidden stories within data and helping businesses make informed decisions.
+👋 Hi, I'm Akanksha Magdum, a passionate data analyst dedicated to transforming raw data into actionable insights. I excel in uncovering hidden stories within data and helping businesses make informed decisions.
 
 🔍 Skills:
 - Data Analysis
